@@ -9,7 +9,7 @@ I’m currently learning:
 - HTML/CSS
 - Python
 
-📫 How to reach me:
+How to reach me:
 - E-mail: salahlfd0@gmail.com
 - Twitter: @Bubbl3Waffl3
 - Instagram: @Bubbl3Waffl3
