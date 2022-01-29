@@ -6,7 +6,8 @@ I’m interested in:
 - Japan
 
 I’m currently learning:
-- HTML/CSS/JS
+- HTML/CSS
+- JavaScript
 - Python
 
 How to reach me:
