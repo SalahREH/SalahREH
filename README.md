@@ -3,7 +3,6 @@ Hi, I’m Salah!
 I’m interested in:
 - Anime
 - Games
-- Japan
 
 I’m currently learning:
 - HTML/CSS
