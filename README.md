@@ -7,7 +7,7 @@ I’m interested in:
 I’m currently learning:
 - HTML/CSS
 - JavaScript
-- Python
+- React
 
 How to reach me:
 - E-mail: salahlfd0@gmail.com
