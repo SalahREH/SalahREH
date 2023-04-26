@@ -1,13 +1,18 @@
-Hi, I’m Salah!
+Hi, I’m Salah
 
-I’m interested in:
-- Anime
-- Games
-
-I’m currently learning:
+I am experienced in:
 - HTML/CSS
 - JavaScript
 - React
+
+I've also worked with:
+- Java(Spring Boot)
+- Node.js(Express.js, discord.js)
+
+I'm currently learning:
+- Machine learning(NEAT)
+- Python
+- C#
 
 How to reach me:
 - E-mail: salahlfd0@gmail.com
