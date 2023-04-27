@@ -1,7 +1,7 @@
 Hi, I’m Salah
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="600"/>
+<div id="header">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
 </div>
 
 I am experienced in:
@@ -14,7 +14,6 @@ I've also worked with:
 - Node.js(Express.js, discord.js)
 
 I'm currently learning:
-- Machine learning(NEAT)
 - Python
 - C#
 
